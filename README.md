@@ -1,4 +1,3 @@
 # StriverSdeSheetChallenge
 
-- [Graph]()
-  - [kk]()
+## Graph
