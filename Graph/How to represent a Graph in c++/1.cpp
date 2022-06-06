@@ -18,3 +18,5 @@ int main(){
 		adj[v][u]=1;
 	}
 }
+
+// Space complexity: O(n*n)
